@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+----
+#### 4th year Computer Science and Business Administration student
+
++ 🌱 I'm currently learning new technologies: javascript, react and python
++ 😄 Pronouns: he/him
++ 📫 How to reach me: fabriziozeballos.profesional@gmail.com
 
 <!--
 **FabrizioZeb/fabriziozeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
