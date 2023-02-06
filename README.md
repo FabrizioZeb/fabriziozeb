@@ -6,6 +6,9 @@
 + 😄 Pronouns: he/him
 + 📫 How to reach me: fabriziozeballos.profesional@gmail.com
 
+![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziozeb&show_icons=true&theme=transparent)
+
+
 <!--
 **FabrizioZeb/fabriziozeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
