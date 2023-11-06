@@ -1,9 +1,8 @@
 ### Hi there! 👋
 ----
-#### 4th year Computer Science and Business Administration student
+#### Last year Computer Science and Business Administration $ Management
 
-+ 🌱 I'm currently learning new technologies: javascript, react and python
-+ 😄 Pronouns: he/him
++ Pronouns: he/him
 + 📫 How to reach me: fabriziozeballos.profesional@gmail.com
 
 ![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziozeb&show_icons=true&theme=cobalt)
