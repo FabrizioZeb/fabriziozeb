@@ -1,7 +1,10 @@
 ### Hi there! 👋
 ----
-#### Last year Computer Science and Business Administration $ Management
+#### Last year Computer Science and Business Administration & Management
 
+
+
++ Bachelor's Thesis (Currently): Intel OneAPI Toolkit acceleration of algorithms for detection of skin cancer and brain tumors through hyperspectral images
 + Pronouns: he/him
 + 📫 How to reach me: fabriziozeballos.profesional@gmail.com
 
